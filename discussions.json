@@ -1,0 +1,13 @@
+{
+ "discussions":[{
+    "standardsName": "trusted-types-api",
+    "description": "An API for allowing web developers to add a much stricter layer of protection against XSS and Injection over CSP in web applications.",
+    "bugUrl": null,
+    "position": "important",
+    "positionDetail": "counter proposal",
+    "positionIssue": 1,
+    "org": "WICG",
+    "title": "Trusted Types",
+    "url": "https://github.com/WICG/trusted-types/"
+  }]
+}
